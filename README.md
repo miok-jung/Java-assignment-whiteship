@@ -30,9 +30,12 @@
 
 ## Java Study
 
-###
+### 제어문
 
-- 스터디내용 :
-- 완료일 :
-- 업로드 :
-- 그 외 :
+- 스터디내용
+  - 선택문 : https://jnarin-development-story.tistory.com/67
+  - 반복문 : https://jnarin-development-story.tistory.com/68
+- 완료일 : 21년 01월 04일
+- 업로드 : 21년 01월 05일 ~ 06일
+- 그 외 : https://jnarin-development-story.tistory.com/69
+  ! 옵션에 대한 스터디는 아직 미흡하므로 추가적 업데이트 할 예정이다.

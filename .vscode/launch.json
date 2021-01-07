@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ContinueExample",
+            "request": "launch",
+            "mainClass": "study4.ContinueExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakOutterExample",
+            "request": "launch",
+            "mainClass": "study4.BreakOutterExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhileExample",
+            "request": "launch",
+            "mainClass": "study4.DoWhileExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileKeyControlExample",
+            "request": "launch",
+            "mainClass": "study4.WhileKeyControlExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhilePrintFrom1To10Example",
+            "request": "launch",
+            "mainClass": "study4.WhilePrintFrom1To10Example",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForPrintFrom1To10Example",
+            "request": "launch",
+            "mainClass": "study4.ForPrintFrom1To10Example",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchNoBreakCaseExample",
+            "request": "launch",
+            "mainClass": "study4.SwitchNoBreakCaseExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchExample",
+            "request": "launch",
+            "mainClass": "study4.SwitchExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfNestedExample",
+            "request": "launch",
+            "mainClass": "study4.IfNestedExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch arr",
+            "request": "launch",
+            "mainClass": "study2.arr",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchExample",
+            "request": "launch",
+            "mainClass": "study3.SwitchExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfExample",
+            "request": "launch",
+            "mainClass": "study4.IfExample",
+            "projectName": "Java-assignment-whiteship_6bcdff31"
+        }
+    ]
+}
